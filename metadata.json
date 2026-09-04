@@ -1,0 +1,6 @@
+{
+  "name": "Unified Cloud",
+  "description": "Unified cloud storage aggregator connecting Google Drive, Dropbox, and Telegram with storage analytics, universal file manager, and smart upload routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
